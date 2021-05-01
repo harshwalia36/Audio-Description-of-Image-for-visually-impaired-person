@@ -66,10 +66,16 @@ Let’s discuss equations for Local Attention and Global Attention with General 
  ![image](https://user-images.githubusercontent.com/43993467/115184071-ae366280-a0fa-11eb-88d8-fd4198adecbe.png)
  <sos> display case filled with lots of different kinds of donuts <eos>
 
-
+<br>
 
 ![image](https://user-images.githubusercontent.com/43993467/115184196-eccc1d00-a0fa-11eb-84f7-168a4abe1501.png)
+<sos> wall mens truck is parked in grass <eos>
+ 
+ <br>
+ 
+![image](https://user-images.githubusercontent.com/43993467/116770206-5afbd280-aa5f-11eb-861b-2683ac275972.png)
 <sos> black and white cat standing in his of patch phones <eos>
+
 
 
 
