@@ -13,7 +13,9 @@ V2). Implemented ****CNN-RNN Architecture with Attention Mechanism**** to acheiv
 ![image](https://user-images.githubusercontent.com/43993467/115182969-8b0ab380-a0f8-11eb-89fd-af80c6143f8f.png)
 
 <br>
-## Now, How the 2nd approach using attention improved the model
+
+## Now, How the 2nd approach using Attention Mechanism improved the model
+
 <br>
 
 ![image](https://user-images.githubusercontent.com/43993467/115183070-bee5d900-a0f8-11eb-9e1d-d86012adbe85.png)
