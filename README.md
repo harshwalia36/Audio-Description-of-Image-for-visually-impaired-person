@@ -4,16 +4,17 @@
 
 I have implemented the image captioning with 2 approaches-
 
-V1). Implemented CNN-RNN(LSTM) Architecture to convert the image into caption which acheived a `LOSS of 2.689` on Flickr 8K dataset.  <br>
-V2). Implemented ***CNN-RNN Architecture with Attention Mechanism*** to acheive better accuracy .Used a Larger MSCOCO Dataset of 327437 sample images which acheived a `LOSS of 1.625`. 
+V1). Implemented ****CNN-RNN(LSTM)**** Architecture to convert the image into caption which acheived a `LOSS of 2.689` on Flickr 8K dataset.  <br>
+V2). Implemented ****CNN-RNN Architecture with Attention Mechanism**** to acheive better accuracy .Used a Larger MSCOCO Dataset of 327437 sample images which acheived a `LOSS of 1.625`. 
 
 
 ## Simple CNN-RNN Architecute
 
 ![image](https://user-images.githubusercontent.com/43993467/115182969-8b0ab380-a0f8-11eb-89fd-af80c6143f8f.png)
 
-
-### Now, How the 2nd approach using attention improved the model
+<br>
+## Now, How the 2nd approach using attention improved the model
+<br>
 
 ![image](https://user-images.githubusercontent.com/43993467/115183070-bee5d900-a0f8-11eb-9e1d-d86012adbe85.png)
 
