@@ -1,5 +1,8 @@
 # Audio-Description-of-Image-for-visually-impaired-person
 
+* ***Version-1*** - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AL3Om914f_l6CbXNv9nq3xYyXA7768Jc)
+* ***Version-2*** - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dS1clisLEhAOMmIjPFRA8oT4bbt4j6eS)
+
 ### Idea behind the project is to convert the image -> caption -> audio
 
 I have implemented the image captioning with 2 approaches-
